@@ -1,0 +1,17 @@
+{
+  "name": "Mon Suivi Vert",
+  "short_name": "Suivi Vert",
+  "description": "Application de suivi et gestion de plantes",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4CAF50",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

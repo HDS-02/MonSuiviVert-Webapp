@@ -1,0 +1,6 @@
+<!-- This est un binaire, je vais créer un fichier SVG compatible favicon -->
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="6" fill="#4CAF50"/>
+  <circle cx="16" cy="16" r="10" fill="#E8F5E9"/>
+  <path d="M16 9C13.24 9 11 11.24 11 14C11 16.76 13.24 19 16 19C18.76 19 21 16.76 21 14C21 11.24 18.76 9 16 9ZM16 17.5C14.07 17.5 12.5 15.93 12.5 14C12.5 12.07 14.07 10.5 16 10.5C17.93 10.5 19.5 12.07 19.5 14C19.5 15.93 17.93 17.5 16 17.5Z" fill="#4CAF50"/>
+</svg>
